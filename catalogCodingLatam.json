@@ -1,0 +1,168 @@
+{
+    "categories" : [
+    {
+      "id": 1,
+      "name": "HTML"
+    },
+    {
+      "id": 2,
+      "name": "CSS"
+    },
+    {
+      "id": 3,
+      "name": "JS"
+    },
+    {
+      "id": 4,
+      "name": "Git"
+    },
+    {
+      "id": 5,
+      "name": "UX"
+    },
+    {
+      "id": 6,
+      "name": "SASS"
+    },
+    {
+      "id": 7,
+      "name": "Performance"
+    },
+    {
+      "id": 8,
+      "name": "Accesibilidad"
+    },
+    {
+      "id": 9,
+      "name": "Angular"
+    },
+    {
+      "id": 10,
+      "name": "React"
+    },
+    {
+      "id": 11,
+      "name": "Vue"
+    },
+    {
+      "id": 12,
+      "name": "Wordpress"
+    }
+  ],
+
+"groups" : [
+    {
+      "id": 1,
+      "name": "HTML",
+      "description": "Ven a conocer HTML desde 0",
+      "image": "/images/html.png"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "description": "Estiliza tus templates aplicando CSS",
+      "image": "/images/css.png"
+    },
+    {
+      "id": 3,
+      "name": "JS",
+      "description": "Conoce las bases de Javascript",
+      "image": "/images/js.png"
+    },
+    {
+      "id": 4,
+      "name": "SASS",
+      "description": "Dale superpoderes a tu CSS",
+      "image": "/images/sass.png"
+    },
+    {
+      "id": 5,
+      "name": "Accesibilidad Web",
+      "description": "¿Qué tan accesible es tu web?",
+      "image": "/images/accesibilidad.png"
+    },
+    {
+      "id": 6,
+      "name": "HTML semántico",
+      "description": "Estás usando las etiquetas correctas?",
+      "image": "/images/html.png"
+    },
+    {
+      "id": 7,
+      "name": "Responsive Design",
+      "description": "Tu web adaptable a todos los dispotivos",
+      "image": "/images/responsive.png"
+    },
+    {
+      "id": 8,
+      "name": "Performance y optimización",
+      "description": "¿En cuántos segundos carga tu web?",
+      "image": "/images/lighthouse.png"
+    },
+    {
+      "id": 9,
+      "name": "Iniciando con React JS",
+      "description": "Ven a conocer HTML desde 0",
+      "image": "/images/react.png"
+    }
+  ],
+"recommendedCourses" : [
+    {
+      "id": 0,
+      "image": "web-dev.png",
+      "title": "Curso de diseño y desarrollo web",
+      "description":
+        "Aprende desde cero, cómo crear un sitio web utilizando HTML y CSS.",
+      "link": "https://forms.gle/iTzZGiZTst71CCwU7"
+    },
+    {
+      "id": 1,
+      "image": "responsive-design.png",
+      "title": "Curso de Responsive Design",
+      "description":
+        "Aprende a hacer que tu sitio web se adapte a cualquier dispositivo o resolución",
+      "link": "https://forms.gle/ANFfLjsGAWmeERQJ8"
+    },
+    {
+      "id": 2,
+      "image": "javascript.png",
+      "title": "Fundamentos de Javascript",
+      "description":
+        "Aprende las bases del lenguaje más popular y demandado del momento",
+      "link": "https://forms.gle/1fcuyD6BtJ5WpoqU9"
+    }
+  ],
+  "talks" : [
+    {
+        "id" : 1,
+        "image" : "/images/calendar.svg",
+        "description" : "LIVE - Creando tu perfil de Github con README",
+        "date" : "31 Julio/20:00 horas GMT-5",
+        "calendarLink" : "https://calendar.google.com/event?action=TEMPLATE&tmeid=MWJtdGw2Z2Q5cjU4ZHBlcms5MjNvNzNrcTYgMzE4MTRidWU4MzhrN21hbHRsbmE4OWQzZzBAZw&tmsrc=31814bue838k7maltlna89d3g0%40group.calendar.google.com"
+        
+    },
+    {
+        "id" : 2,
+        "image" : "/images/calendar.svg",
+        "description" : "LIVE - Finanzas Personales en el mundo tech",
+        "date" : "07 Agosto/20:00 horas GMT-5",
+        "calendarLink" : "https://calendar.google.com/event?action=TEMPLATE&tmeid=MWszYm9kMDRobXN1ZnBhNTQ1bGJucXNjbzEgMzE4MTRidWU4MzhrN21hbHRsbmE4OWQzZzBAZw&tmsrc=31814bue838k7maltlna89d3g0%40group.calendar.google.com"
+        
+    },
+    {
+        "id" : 3,
+        "image" : "/images/calendar.svg",
+        "description" : "LIVE - Introducción a Accesibilidad Web",
+        "date" : "14 Agosto/20:00 horas GMT-5",
+        "calendarLink" : "https://calendar.google.com/event?action=TEMPLATE&tmeid=MnA2b3VjdjlzbmYzYjhwZHU0dWtvMWFrN2kgMzE4MTRidWU4MzhrN21hbHRsbmE4OWQzZzBAZw&tmsrc=31814bue838k7maltlna89d3g0%40group.calendar.google.com"
+        
+    },
+    {
+        "id" : 4,
+        "image" : "/images/calendar.svg",
+        "description" : "LIVE - Primeros pasos con React JS",
+        "date" : "21 Agosto/20:00 horas GMT-5",
+        "calendarLink" : "https://calendar.google.com/event?action=TEMPLATE&tmeid=MTEwdDRxcnNtMzM0NzhzY2FwcXE5azFrcTIgMzE4MTRidWU4MzhrN21hbHRsbmE4OWQzZzBAZw&tmsrc=31814bue838k7maltlna89d3g0%40group.calendar.google.com"
+    }
+]
+}
