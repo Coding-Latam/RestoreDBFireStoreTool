@@ -116,4 +116,4 @@ dist
 .pnp.*
 
 ./serviceAccountPrivate.json
-./configEx.js
+key.json
